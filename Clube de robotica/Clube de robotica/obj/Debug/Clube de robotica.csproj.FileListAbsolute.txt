@@ -1,0 +1,510 @@
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\ricar\source\repos\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\esgc\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\ricar\OneDrive\Desktop\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\esgc.ESCOLA\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+C:\Users\asilva\Desktop\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\asilva\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+D:\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+D:\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+D:\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+D:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+E:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+E:\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+E:\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+E:\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+G:\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+G:\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+G:\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+G:\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\things\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.FormPerfil.resources
+C:\Users\ricar\Desktop\things\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsProj.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsProj.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formConsulta.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.FormPerfil.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+D:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsProj.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formConsulta.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.FormPerfil.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsProj.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsEve.resources
+E:\Pap e Escola\asd\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsEve.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsEve.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsProj.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formConsulta.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.FormPerfil.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsEve.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsProj.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+E:\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsEve.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsProj.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formConsulta.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.FormPerfil.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsEve.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsProj.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\uwu\things\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsEve.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsProj.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formConsulta.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.FormPerfil.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsEve.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsProj.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube_informatica.mdf
+C:\Users\ricar\Desktop\uwu\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube_informatica_log.ldf
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube_informatica.mdf
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube_informatica_log.ldf
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsEve.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsProj.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formConsulta.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.FormPerfil.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsEve.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsProj.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\yes\Escola\Pap e Escola\Pap\PAP\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+D:\Backup\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube_informatica.mdf
+D:\Backup\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube_informatica_log.ldf
+D:\Backup\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+D:\Backup\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+D:\Backup\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csprojAssemblyReference.cache
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsEve.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsProj.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formConsulta.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.FormPerfil.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsEve.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsProj.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+D:\Backup\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.config
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ajuda.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsEve.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsProj.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formConsulta.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsEve.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProf.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAlu.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfEve.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProfProj.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsProj.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.FormPerfil.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsEve.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsProj.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Menu.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Login.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Properties.Resources.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.sobre.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.pdb
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.Permissions.dll
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.Permissions.xml
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CopyComplete
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.sendCode.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ResetPassword.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.manifest
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.application
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe.manifest
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.application
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.formAddProjEve.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.formAddProjToEve.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.formInsMat.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.formInsMatProj.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.formInsMatInProj.resources
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\WinBiometricDotNet.dll
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\bin\Debug\WinBiometricDotNet.xml
+C:\Users\ricar\Desktop\yes\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.AssemblyReference.cache
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.exe.manifest
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\Clube de robotica.application
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.Permissions.dll
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\WinBiometricDotNet.dll
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.Permissions.xml
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\bin\Debug\WinBiometricDotNet.xml
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.AssemblyReference.cache
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.formAddProjEve.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.formAddProjToEve.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsEve.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formAluInsProj.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formConsulta.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluEve.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formInsAluProj.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.formInsMat.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.formInsMatInProj.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.formInsMatProj.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.FormPerfil.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsEve.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.formProfInsProj.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.Formss.sendCode.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube_de_robotica.ResetPassword.resources
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.exe.manifest
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.application
+C:\Users\ricar\Desktop\PAP\Clube de robotica\Clube de robotica\obj\Debug\Clube de robotica.csproj.CopyComplete
